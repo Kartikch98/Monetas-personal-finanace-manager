@@ -36,7 +36,11 @@ Clone the Repository
 bash
 Copy code
 git clone https://github.com/your-username/personal-finance-manager-blockchain.git
+
+
 cd personal-finance-manager-blockchain
+
+
 Install Dependencies
 
 bash
